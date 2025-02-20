@@ -18,7 +18,7 @@
 //		Event: Same as Devil Square, but with random MVPs.
 //
 
-//prontera,169,203,3	script	HELL#1	705,{
+prontera,169,203,3	script	HELL#1	705,{
 function	script	E_Hell2	{
 
 	// === Verificação de Guild
